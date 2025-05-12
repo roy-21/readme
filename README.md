@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-21&label=Profile%20views&color=0e75b6&style=flat" alt="roy-21" /> </p>
 
+- 🔭 I’m currently working on [aiquest bangla sentiment analysis competition](https://www.kaggle.com/competitions/aiquest-bangla-sentiment-analysis-competition)
+
 - 🌱 I’m currently learning **Data Analysis,ML,DL**
 
 - 📫 How to reach me **rcsojib.cse1@gmail.com**
